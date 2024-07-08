@@ -108,11 +108,8 @@ input{
 }
 
 .footer{
-    display: flex;
-    justify-content: end;
-    align-items: top;
-    gap: 10px;
-    background-color: #333;
+    text-align: right;
+    background-color:  #333;
     color: white;
     font-size: 13px;
     padding: 5px;
